@@ -1,0 +1,11 @@
+   Olá Você acaba de se inscrever no evento.
+   Este é um email de confirmação de inscrição.
+
+   Dados:
+   Nome: {{ name }}
+   Cpf: {{ cpf }}
+   Email: {{ email }}
+   Telefone: {{ phone }}
+
+   Em até 48hrs nossa equipe irá entrar em contato.
+   Att Coordenação.
