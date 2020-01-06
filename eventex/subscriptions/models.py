@@ -1,5 +1,6 @@
 from django.db import models
 
+
 class Subscription(models.Model):
     name = models.CharField('nome', max_length=100)
     cpf = models.CharField('Cpf', max_length=11)
@@ -11,6 +12,6 @@ class Subscription(models.Model):
         verbose_name_plural = 'Inscrições'
         verbose_name = 'Inscrição'
         ordering = ('-created_at',)
+
     def __str__(self):
         return self.name
-    
