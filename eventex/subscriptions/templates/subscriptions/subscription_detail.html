@@ -1,10 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'base.html' %}
 
-</body>
-</html>
+{% block content %}
+    <section>
+        <div class="content row padding-bottom-3 desktop-12 container">
+            <h1>Obrigado por se inscrever</h1>
+            <div class="desktop-6">
+                <p>Estes foram os dados que voce nos forneceu </p>
+                <p>Nome {{subscription.name}}</p>
+                <p>Cpf {{subscription.cpf}}</p>
+                <p>Email {{subscription.email}}</p>
+                <p>Telefone {{subscription.phone}}</p>
+
+            </div>
+        </div>
+    </section>
+{% endblock %}

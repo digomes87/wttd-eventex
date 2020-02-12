@@ -1,5 +1,4 @@
 from unittest import TestCase
-
 from eventex.subscriptions.form import SubscriptionForm
 
 
