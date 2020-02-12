@@ -5,7 +5,7 @@
 
 ## Installation
 
-OS X ,Linux & Windons:
+OS X ,Linux & Windows:
 
 ```sh
   git clone https://github.com/digomes87/wttd-eventex.git
@@ -21,8 +21,9 @@ OS X ,Linux & Windons:
 5 - Run the test -> python manager.py test<br>
 ```
 
-For generate sicret key has inside contrib a file python, scret_gen_file<br>
+For generate secret key has inside contrib a file python, scret_gen_file<br>
 Just runner in terminal and copy ;)
+
 
 
 ## About Me
