@@ -21,7 +21,7 @@ OS X ,Linux & Windows:
 5 - Run the test -> python manager.py test<br>
 ```
 
-For generate secret key has inside contrib a file python, scret_gen_file<br>
+To generate a secret key, use a contrib and secret_gen file in Python. Just run in the Terminal and then copy, scret_gen_file<br>
 Just runner in terminal and copy ;)
 
 
@@ -36,7 +36,7 @@ Contact - [Email: diego.gomes87@gmail.com](diego.gomes87@gmail.com)
 
 Github [https://github.com/digomes87](https://github.com/digomes87/) 
 
-See Here this project [https://github.com/digomes87/wttd-eventex](Bike)
+See this project here [https://github.com/digomes87/wttd-eventex](Bike)
 
 Version for preview [https://eventex-diego.herokuapp.com] (Eventex In heroku)
 
