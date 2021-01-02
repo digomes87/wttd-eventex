@@ -24,6 +24,9 @@ OS X ,Linux & Windows:
 To generate a secret key, use a contrib and secret_gen file in Python. Just run in the Terminal and then copy, scret_gen_file<br>
 Just runner in terminal and copy ;)
 
+PSS: In case of error in install pycopg2, see this link:
+https://www.psycopg.org/docs/install.html
+
 
 
 ## About Me
